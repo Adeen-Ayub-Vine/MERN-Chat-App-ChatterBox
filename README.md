@@ -35,7 +35,7 @@ In the .env file, add the following information respective to you
     cd frontend
     npm start
     ```
-   4. **Open your browser:**
+  4. **Open your browser:**
 
     Navigate to `http://localhost:3000` to see the app in action.
 
