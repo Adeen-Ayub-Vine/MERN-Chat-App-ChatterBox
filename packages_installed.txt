@@ -1,0 +1,21 @@
+1. npm i express
+2. npm i dotenv
+3. npm i nodemon
+4. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+5. npm install react-router-dom
+6. npm i axios
+7. npm i mongoose (in root)
+8. npm install mongodb
+9. npm i express-async-handler
+10. npm i jsonwebtoken
+11. npm i bcryptjs
+12. (added cdn of font awesome icons in index.html)
+13.npm i @chakra-ui/icons
+14. npm i react-scrollable-feed
+15. npm install socket.io (server side/root)
+16. npm install socket.io-client 
+17. npm i react-lottie
+18. npm i react-notification-badge or npm install react-notification-badge --legacy-peer-deps
+
+
+npm install @chakra-ui/react
