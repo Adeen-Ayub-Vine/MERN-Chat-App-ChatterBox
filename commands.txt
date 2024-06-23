@@ -1,5 +1,0 @@
-0. npm init
-3.1. npx create-react-app frontend
-.1.  
-
-Run App: npm backend/server.js or npm start
