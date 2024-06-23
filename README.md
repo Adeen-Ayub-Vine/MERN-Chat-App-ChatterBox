@@ -1,1 +1,1 @@
-# MERN-Chat-App-Chatter-Box
+# MERN-Chat-App-ChatterBox
