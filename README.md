@@ -26,15 +26,15 @@ In the .env file, add the following information respective to you
   3. Open two terminal in VSCode, one for the server and one for the client.
 
   - In the `server` terminal:
-        ```bash
-       npm start
-        ```
+    ```bash
+    npm start
+    ```
 
  - In the `client` terminal:
-        ```bash
-        cd frontend
-        npm start
-        ```
+    ```bash
+    cd frontend
+    npm start
+    ```
    4. **Open your browser:**
 
     Navigate to `http://localhost:3000` to see the app in action.
